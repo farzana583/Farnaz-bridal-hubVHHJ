@@ -123,3 +123,12 @@ h2 {
 .farz{
     text-align:center;
 }
+.me{
+    display: flex;
+    justify-content: center;
+
+}
+.far{
+    padding: 50px;
+    text-align: left;
+}
